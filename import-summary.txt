@@ -1,0 +1,99 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* FlashWidget_Toggle\
+* FlashWidget_Toggle\.classpath
+* FlashWidget_Toggle\.project
+* FlashWidget_Toggle\AndroidManifest.xml
+* FlashWidget_Toggle\bin\
+* FlashWidget_Toggle\bin\AndroidManifest.xml
+* FlashWidget_Toggle\bin\FlashWidget_Toggle.apk
+* FlashWidget_Toggle\bin\classes.dex
+* FlashWidget_Toggle\bin\classes\
+* FlashWidget_Toggle\bin\classes\com\
+* FlashWidget_Toggle\bin\classes\com\flash\
+* FlashWidget_Toggle\bin\classes\com\flash\widget\
+* FlashWidget_Toggle\bin\classes\com\flash\widget\BuildConfig.class
+* FlashWidget_Toggle\bin\classes\com\flash\widget\FlashWidgetActivity.class
+* FlashWidget_Toggle\bin\classes\com\flash\widget\R$attr.class
+* FlashWidget_Toggle\bin\classes\com\flash\widget\R$drawable.class
+* FlashWidget_Toggle\bin\classes\com\flash\widget\R$id.class
+* FlashWidget_Toggle\bin\classes\com\flash\widget\R$layout.class
+* FlashWidget_Toggle\bin\classes\com\flash\widget\R$string.class
+* FlashWidget_Toggle\bin\classes\com\flash\widget\R$xml.class
+* FlashWidget_Toggle\bin\classes\com\flash\widget\R.class
+* FlashWidget_Toggle\bin\dexedLibs\
+* FlashWidget_Toggle\bin\dexedLibs\annotations-a36f63f569ba1f93b5f8f41e125a1d8c.jar
+* FlashWidget_Toggle\bin\jarlist.cache
+* FlashWidget_Toggle\bin\res\
+* FlashWidget_Toggle\bin\res\drawable-hdpi\
+* FlashWidget_Toggle\bin\res\drawable-hdpi\icon.png
+* FlashWidget_Toggle\bin\res\drawable-hdpi\off.png
+* FlashWidget_Toggle\bin\res\drawable-hdpi\on.png
+* FlashWidget_Toggle\bin\res\drawable-ldpi\
+* FlashWidget_Toggle\bin\res\drawable-ldpi\icon.png
+* FlashWidget_Toggle\bin\res\drawable-mdpi\
+* FlashWidget_Toggle\bin\res\drawable-mdpi\icon.png
+* FlashWidget_Toggle\bin\resources.ap_
+* FlashWidget_Toggle\gen\
+* FlashWidget_Toggle\gen\com\
+* FlashWidget_Toggle\gen\com\flash\
+* FlashWidget_Toggle\gen\com\flash\widget\
+* FlashWidget_Toggle\gen\com\flash\widget\BuildConfig.java
+* FlashWidget_Toggle\gen\com\flash\widget\R.java
+* FlashWidget_Toggle\proguard.cfg
+* FlashWidget_Toggle\project.properties
+* FlashWidget_Toggle\res\
+* FlashWidget_Toggle\res\drawable-hdpi\
+* FlashWidget_Toggle\res\drawable-hdpi\Thumbs.db
+* FlashWidget_Toggle\res\drawable-hdpi\icon.png
+* FlashWidget_Toggle\res\drawable-hdpi\off.png
+* FlashWidget_Toggle\res\drawable-hdpi\on.png
+* FlashWidget_Toggle\res\drawable-ldpi\
+* FlashWidget_Toggle\res\drawable-ldpi\icon.png
+* FlashWidget_Toggle\res\drawable-mdpi\
+* FlashWidget_Toggle\res\drawable-mdpi\icon.png
+* FlashWidget_Toggle\res\layout\
+* FlashWidget_Toggle\res\layout\main.xml
+* FlashWidget_Toggle\res\values\
+* FlashWidget_Toggle\res\values\strings.xml
+* FlashWidget_Toggle\res\xml\
+* FlashWidget_Toggle\res\xml\flashprovider.xml
+* FlashWidget_Toggle\src\
+* FlashWidget_Toggle\src\com\
+* FlashWidget_Toggle\src\com\flash\
+* FlashWidget_Toggle\src\com\flash\widget\
+* FlashWidget_Toggle\src\com\flash\widget\FlashWidgetActivity.java
+* default.properties
+* proguard.cfg
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => flashWidget_Toggle\src\main\AndroidManifest.xml
+* assets\ => flashWidget_Toggle\src\main\assets\
+* res\ => flashWidget_Toggle\src\main\res\
+* src\ => flashWidget_Toggle\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ironman_Lights.iml" filepath="$PROJECT_DIR$/Ironman_Lights.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flashWidget_Toggle/flashWidget_Toggle.iml" filepath="$PROJECT_DIR$/flashWidget_Toggle/flashWidget_Toggle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myTsetPrj/myTsetPrj.iml" filepath="$PROJECT_DIR$/myTsetPrj/myTsetPrj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myTsetPrj_lowspeed/myTsetPrj_lowspeed.iml" filepath="$PROJECT_DIR$/myTsetPrj_lowspeed/myTsetPrj_lowspeed.iml" />
+    </modules>
+  </component>
+</project>
+

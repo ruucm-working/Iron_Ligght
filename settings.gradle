@@ -1,0 +1,4 @@
+include ':app'
+include ':myTsetPrj'
+include ':myTsetPrj_lowspeed'
+include ':flashWidget_Toggle'
