@@ -16,7 +16,7 @@
         android:id="@+id/imgButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src="@drawable/skeleton_animation_0"
+        android:src="@drawable/skeleton_lightening_0"
         android:clickable="true"/>
 
   <!--  <SurfaceView

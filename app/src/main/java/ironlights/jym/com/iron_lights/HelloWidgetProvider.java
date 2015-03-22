@@ -74,8 +74,8 @@ public class HelloWidgetProvider extends AppWidgetProvider
             if(!light_switch) {
 
 
-
-                rv.setImageViewResource(R.id.imgButton, R.drawable.iron_light_anim);
+//                rv.setImageViewResource(R.id.imgButton, R.drawable.iron_light_anim);
+                rv.setImageViewResource(R.id.imgButton, R.drawable.pica_light_anim);
                 light_switch = !light_switch;
 
 /*
@@ -110,7 +110,7 @@ public class HelloWidgetProvider extends AppWidgetProvider
                 mCamera.startPreview();
 
 
-                final MediaPlayer snd  = getSoundPlayer(R.raw.open);
+                final MediaPlayer snd  = getSoundPlayer(R.raw.pikapi_open);
                 snd.seekTo(0);
                 snd.setOnSeekCompleteListener(new MediaPlayer.OnSeekCompleteListener() {
                     public void onSeekComplete(MediaPlayer mp) {
@@ -126,7 +126,9 @@ public class HelloWidgetProvider extends AppWidgetProvider
 
                 Log.d("off_bugfix", "setImageViewResource");
 
-                rv.setImageViewResource(R.id.imgButton, R.drawable.skeleton_animation_0);
+//                rv.setImageViewResource(R.id.imgButton, R.drawable.skeleton_animation_0);
+                rv.setImageViewResource(R.id.imgButton, R.drawable.skeleton_lightening_0);
+
                 light_switch = !light_switch;
 
 
@@ -149,7 +151,7 @@ public class HelloWidgetProvider extends AppWidgetProvider
 
                 Log.d("off_bugfix","getSoundPlayer");
 
-                final MediaPlayer snd  = getSoundPlayer(R.raw.close);
+                final MediaPlayer snd  = getSoundPlayer(R.raw.pika_close);
                 snd.seekTo(0);
                 snd.setOnSeekCompleteListener(new MediaPlayer.OnSeekCompleteListener() {
                     public void onSeekComplete(MediaPlayer mp) {

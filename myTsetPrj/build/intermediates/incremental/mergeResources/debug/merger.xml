@@ -11,4 +11,4 @@
         <!-- API 11 theme customizations can go here. -->
     </style></file><file path="C:\GitHub\Ironman_Lights\myTsetPrj\src\main\res\values-v14\styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
         <!-- API 14 theme customizations can go here. -->
-    </style></file></source><source path="C:\GitHub\Ironman_Lights\myTsetPrj\build\generated\res\rs\debug"/><source path="C:\GitHub\Ironman_Lights\myTsetPrj\build\generated\res\generated\debug"/></dataSet><dataSet config="debug"><source path="C:\GitHub\Ironman_Lights\myTsetPrj\src\debug\res"/></dataSet><mergedItems/></merger>
+    </style></file><file path="C:\GitHub\Ironman_Lights\myTsetPrj\src\main\res\values\integer.xml" qualifiers=""><integer name="google_play_services_version">3</integer></file></source><source path="C:\GitHub\Ironman_Lights\myTsetPrj\build\generated\res\rs\debug"/><source path="C:\GitHub\Ironman_Lights\myTsetPrj\build\generated\res\generated\debug"/></dataSet><dataSet config="debug"><source path="C:\GitHub\Ironman_Lights\myTsetPrj\src\debug\res"/></dataSet><mergedItems/></merger>
