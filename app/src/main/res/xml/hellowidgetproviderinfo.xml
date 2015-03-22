@@ -2,5 +2,5 @@
 <appwidget-provider
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:initialLayout="@layout/hellowidget_layout"
-    android:minWidth="110dp"
-    android:minHeight="110dp"/>
+    android:minWidth="40dp"
+    android:minHeight="40dp"/>

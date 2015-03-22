@@ -23,7 +23,7 @@
         android:theme="@style/AppTheme"
         >
 
-        <receiver android:name=".HelloWidgetProvider" android:label="Iron Lights">
+        <receiver android:name=".HelloWidgetProvider" android:label="@string/app_name">
             <intent-filter>
                 <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
 
